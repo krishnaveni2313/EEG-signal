@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    background: #f4f4f4;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkblue;
+}
