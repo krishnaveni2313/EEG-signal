@@ -43,4 +43,3 @@ Backend is not included in this repository for security and deployment reasons
 
 
 
-## 📂 Project Structure
